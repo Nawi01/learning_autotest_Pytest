@@ -1,1 +1,1 @@
-# learning_autotest_Pytest
+Файлы по обучению фреймворку Pytest
